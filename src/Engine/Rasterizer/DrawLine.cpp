@@ -36,8 +36,7 @@ namespace Rasterizer
 
 	}
 
-	void DrawLineDDA(const AEVec2& p1, const AEVec2& p2, const Color& c)
-	{
+	void DrawLineDDA(const AEVec2& p1, const AEVec2& p2, const Color& c) {
 	
 	}
 
